@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pyroute2.core
-URL = https://files.pythonhosted.org/packages/7d/d2/85ad6d6f27cf06bd6efcdf43fab3b2e1c18033b303aedef724401eaac325/pyroute2.core-0.6.12.tar.gz
+URL = https://files.pythonhosted.org/packages/41/f9/a5f9ab3d668b9bea36ef2fe8e7dbd9428aff519e6c6996d30672af6cc19b/pyroute2.core-0.6.13.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
